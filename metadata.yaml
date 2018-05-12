@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/33509
     wikipedia: http://en.wikipedia.org/wiki/Harold_Bolingbroke_Mudie
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44668#The-Esperantist-Vol.-2-No.-9
 gutenberg_bookshelf: The Esperantist
 gutenberg_issued: '2014-01-14'
 gutenberg_type: Text
